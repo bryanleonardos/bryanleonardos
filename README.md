@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bryanleonardos
 - 👀 I’m interested in Machine learning and Expert System. (also some new things 😉)
-- 🌱 I’m currently learning Python, C, Oracle 11g, Java and now Ember.js and sails.js for my new project assignment.
+- 🌱 I’m currently learning Python, C, Oracle 11g, Java and now Ember.js + sails.js for my new assignment project.
 - 📫 You can reach me on my email: leonardos.bryan@gmail.com
 
 <!---
